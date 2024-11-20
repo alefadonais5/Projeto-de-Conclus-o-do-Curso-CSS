@@ -45,18 +45,8 @@ Para rodar o projeto em sua máquina local, siga os passos abaixo:
 - Navegador web atualizado.
 - Git para clonar o repositório.
 
-### Passos
-1. **Clonar o Repositório**
-   ```bash
-   git clone https://github.com/alefadonais5/Projeto-de-Conclus-o-do-Curso-CSS.git
+## 📝 Licença
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENÇA` para mais informações.
 
-Clone este repositório para sua máquina local:
-
-```bash
-git clone https://github.com/alefadonais5/Projeto-de-Conclus-o-do-Curso-CSS.git
-
-### 📝 Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENÇA para mais informações.
-
-### ✨ Autor
-Veja o projeto em ação: [Projeto de Conclusão do Curso CSS](https://projeto-de-conclus-o-do-curso-css.vercel.app/)
+##
+ por Alef Adonais 👐🏼
