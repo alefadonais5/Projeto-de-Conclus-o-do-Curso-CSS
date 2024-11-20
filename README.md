@@ -46,7 +46,7 @@ Para rodar o projeto em sua máquina local, siga os passos abaixo:
 - Git para clonar o repositório.
 
 ## 📝 Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENÇA` para mais informações.
+Este projeto está licenciado sob a licença [`LICENÇA`](LICENÇA). Consulte o arquivo para mais informações.
 
 ##
  por Alef Adonais 👐🏼
